@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AChartEngine", "AChartEngine\AChartEngine.csproj", "{CBC0D9FF-AFE7-4EB1-8B2B-CBCA546D83EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartTest", "ChartTest\ChartTest.csproj", "{C9E4796B-F0F7-4011-9F49-DABC6C298D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC0D9FF-AFE7-4EB1-8B2B-CBCA546D83EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC0D9FF-AFE7-4EB1-8B2B-CBCA546D83EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC0D9FF-AFE7-4EB1-8B2B-CBCA546D83EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC0D9FF-AFE7-4EB1-8B2B-CBCA546D83EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E4796B-F0F7-4011-9F49-DABC6C298D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E4796B-F0F7-4011-9F49-DABC6C298D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E4796B-F0F7-4011-9F49-DABC6C298D16}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C9E4796B-F0F7-4011-9F49-DABC6C298D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E4796B-F0F7-4011-9F49-DABC6C298D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E4796B-F0F7-4011-9F49-DABC6C298D16}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
